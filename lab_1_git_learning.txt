@@ -1,0 +1,8 @@
+1. create a group
+2. open GitHub search course teacher GitHub profile
+3. create a public repositories name as course wise in GitHub
+4. check gitbash is it available in pc
+5. open a folder and open their gitbash
+6. then write a command "git clone (copy here quick set up link of repositories)" then press enter
+7. check the hidden file 
+8. 2nd command : "git status" in gitbash and get "On branch main......"
