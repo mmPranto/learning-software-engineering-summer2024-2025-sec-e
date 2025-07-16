@@ -6,3 +6,8 @@
 6. then write a command "git clone (copy here quick set up link of repositories)" then press enter
 7. check the hidden file 
 8. 2nd command : "git status" in gitbash and get "On branch main......"
+
+
+9. then "git add (file name)" and check again the status this time you get green line but before you get red line
+10.  git commit -m"First_Commit"         command use
+11. git push     command use and successfully update in git
